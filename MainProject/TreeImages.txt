@@ -1,4 +1,3 @@
-./.DS_Store
 ./Images/Oak/oak125.jpeg
 ./Images/Oak/oak133.jpeg
 ./Images/Oak/oak42.jpg
